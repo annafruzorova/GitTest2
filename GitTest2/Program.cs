@@ -7,6 +7,8 @@ namespace GitTest2
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+
+            //firts git 
         }
     }
 }
